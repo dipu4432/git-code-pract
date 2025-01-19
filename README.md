@@ -1,2 +1,2 @@
 Hi this is a git project where
-I learn about git gepo and executions.
+I learn about git repo and executions.
